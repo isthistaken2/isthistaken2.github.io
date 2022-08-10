@@ -1,10 +1,10 @@
 @font-face {
-  font-family:"Libre Barcode 39 Text";
+  font-family: "Libre Barcode 39 Text";
   src: url("/fonts/LibreBarcode39Text-Regular.ttf") format("truetype");
 }
 
 @font-face {
-  font-family:"Tajawal";
+  font-family: "Tajawal";
   src: url("/fonts/Tajawal-Regular.ttf") format("truetype");
 }
 
@@ -15,8 +15,8 @@
 }
 
 .blog-heading{
-  font-family:"Libre Barcode 39 Text";
+  font-family: "Libre Barcode 39 Text";
 }
 .blog-text{
-  font-family:"Tajawl"
+  font-family: "Tajawl"
 }
