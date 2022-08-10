@@ -3,6 +3,12 @@
   src:url("/fonts/LibreBarcode39Text-Regular.ttf") format("truetype");
 }
 
+@font-face {
+  font-family:"Tajawal";
+  src:url("/fonts/Tajawal-Regular.ttf") format("truetype");
+}
+
+
 .the-spider-web-that-andy-made {
   width: 33%; 
   height: auto;
@@ -11,4 +17,6 @@
 .blog-heading{
   font-family:"Libre Barcode 39 Text";
 }
-
+.blog-text{
+  font-family:"Tajawl"
+}
