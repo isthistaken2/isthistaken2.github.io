@@ -4,8 +4,8 @@
 }
 
 @font-face {
-  font-family: Tajawal;
-  src: url("/fonts/Tajawal-Regular.ttf") format("truetype");
+  font-family: "Libre Barcode 39 Extended";
+  src: url("/fonts/LibreBarcode39Extended-Regular.ttf") format("truetype");
 }
 
 
@@ -18,5 +18,5 @@
   font-family: "Libre Barcode 39 Extended";
 }
 .blog-text{
-  font-family: "Tajawl"
+  font-family: "Libre Barcode 39 Extended"
 }
