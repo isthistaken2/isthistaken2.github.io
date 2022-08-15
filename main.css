@@ -30,6 +30,10 @@
               0 0 200px yellow;
   color: red;
 }
+.back-t0-h0m3 {
+	z-index: 100;
+	color: #181817
+} 
 #mousetrap-1{
 position: absolute;
 margin-top: 50px;
