@@ -18,7 +18,8 @@
   font-family: "Libre Barcode 39 Text";
 }
 .blog-text{
-  font-family: "Libre Barcode 39 Text"
+  font-family: "Libre Barcode 39 Text";
+  position: absolute
 }
 .back-t0-h0m3 a:hover {
   background: #716415;
@@ -28,4 +29,10 @@
               0 0 150px yellow,
               0 0 200px yellow;
   color: red;
+}
+#mousetrap-1{
+position: absolute;
+margin-top: 50px;
+margin-left: 50px;
+z-index: 10px
 }
