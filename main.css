@@ -38,7 +38,23 @@
 } 
 #mousetrap-1{
 position: absolute;
-margin-top: 50px;
-margin-left: 50px;
-z-index: 10px
+margin-top: -132px;
+margin-left: 12px;
+z-index: 10
+}
+#mousetrap-2{
+position: absolute;
+margin-left: 90%;
+z-index: 10
+}
+#mousetrap-3{
+position: absolute;
+margin-top: 23%;
+z-index: 10
+}
+#mousetrap-4{
+position: absolute;
+margin-top: 90%;
+margin-left: 11%;
+z-index: 10
 }
