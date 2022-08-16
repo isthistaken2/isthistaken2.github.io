@@ -32,7 +32,9 @@
 }
 .back-t0-h0m3 {
 	z-index: 100;
-	color: #181817
+	color: #181817;
+	position: absolute;
+	margin-top: 23%;
 } 
 #mousetrap-1{
 position: absolute;
