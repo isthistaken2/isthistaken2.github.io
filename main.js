@@ -25,5 +25,5 @@ mousetrap4.onmouseover = function() {
 var mousetrap5 = document.getElementById('mousetrap-5')
 
 mousetrap5.onmouseover = function() {
- document.getElementByClass('blog-text').style.fontsize='30px';
+ document.getElementByClassName('blog-text').style.fontsize='30px';
 }
