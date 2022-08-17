@@ -12,8 +12,7 @@ mousetrap2.onmouseover = function() {
 
 var mousetrap3 = document.getElementById('mousetrap-3');
 
-mousetrap3.onmouseover = function() {
-  alert("THIS IS AN ALERT: ANDREW LOVES USING THE WORD TEST");
+window.history.go(-1);
 }
 
 var mousetrap4 = document.getElementById('mousetrap-4');
