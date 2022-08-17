@@ -17,7 +17,7 @@
 .blog-heading{
   font-family: "Libre Barcode 39 Text";
 }
-.blog-text{
+#blog-text{
   font-family: "Libre Barcode 39 Text";
   position: absolute
 }
