@@ -12,7 +12,8 @@ mousetrap2.onmouseover = function() {
 
 var mousetrap3 = document.getElementById('mousetrap-3');
 
-window.history.go(-1);
+mousetrap3.onmouseover = function() {
+  window.history.go(-1);
 }
 
 var mousetrap4 = document.getElementById('mousetrap-4');
