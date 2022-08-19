@@ -23,8 +23,8 @@ mousetrap4.onmouseover = function() {
 }
 
 var mousetrap5 = document.getElementById('mousetrap-5');
-var blog-text = document.getElementById('blog-text');
+var blogText = document.getElementById('blog-text');
 mousetrap5.onmouseover = function() {
- blog-text.style.fontsize = '100px';
+ blogText.style.fontsize = '100px';
 
 }
