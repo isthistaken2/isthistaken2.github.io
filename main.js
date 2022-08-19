@@ -22,8 +22,9 @@ mousetrap4.onmouseover = function() {
   alert("THIS IS AN ALERT: ANDREW LOVES USING THE WORD TEST");
 }
 
-var mousetrap5 = document.getElementById('mousetrap-5')
-
+var mousetrap5 = document.getElementById('mousetrap-5');
+var blog-text = document.getElementById('blog-text');
 mousetrap5.onmouseover = function() {
- document.getElementById('blog-text').style.fontsize='1000px';
+ blog-text.style.fontsize = '100px';
+
 }
