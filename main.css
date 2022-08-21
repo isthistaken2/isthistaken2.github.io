@@ -16,13 +16,17 @@
 
 .blog-heading{
   font-family: "Libre Barcode 39 Text";
+  display: flex;
+  align-content: flex-end;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 #blog-text{
   font-family: "Libre Barcode 39 Text";
   position: absolute
 }
 .back-t0-h0m3 a:hover {
-  background: white;
+  background: #716415;
   border-radius: 100px;
   box-shadow: 0 0 50px yellow,
   	      0 0 125px yellow,
