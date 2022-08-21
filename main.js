@@ -30,3 +30,4 @@ mousetrap5.onmouseover = function() {
 
 mousetrap5.onmouseout = function() {
  blogText.style.fontSize = '16px';
+}
